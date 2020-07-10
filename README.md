@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I currently work at 🛰 NASA's Jet Propulsion Laboratory and ⚓️ Naval Sea Systems Command, both as a software engineer while I finish my senior year at 🐴 California Polytechnic University Pomona. 
+I currently work at 🚀 NASA's Jet Propulsion Laboratory working on 🛰 [Europa Clipper](https://en.wikipedia.org/wiki/Europa_Clipper) and ⚓️ Naval Sea Systems Command working on a enterprise application, both as a software engineer while I finish my senior year at 🐴 California Polytechnic University Pomona. 
 
 <!--
 **mattryanharris/mattryanharris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
